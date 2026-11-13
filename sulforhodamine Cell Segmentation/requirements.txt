@@ -1,0 +1,6 @@
+cellpose>=4.2.1.1
+imageio>=2.34
+numpy>=1.26
+scikit-image>=0.23
+scipy>=1.11
+tifffile>=2024.7
